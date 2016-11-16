@@ -1,0 +1,89 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.295 seconds
+Platform assembly: C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\UPRJ\PhotonSimpleTest\Build\PUN_Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.190588 ms
+ArgumentException: You can only call GUI functions from inside OnGUI.
+  at UnityEngine.GUIUtility.CheckOnGUI () [0x00000] in <filename unknown>:0 
+  at UnityEngine.GUI.set_skin (UnityEngine.GUISkin value) [0x00000] in <filename unknown>:0 
+  at TestGUI.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+SwitchToProtocol: Tcp PhotonNetwork.connected: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2f7c -> priority: 1 
+Connected to room : Her Total Rooms 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Destroying GO as global. ID: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
